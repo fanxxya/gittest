@@ -1,2 +1,2 @@
 # testgit
-git入门测试
+testgit
