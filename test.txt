@@ -3,3 +3,7 @@ test02
 test03
 test04
 test05
+<<<<<<< HEAD
+=======
+test06
+>>>>>>> 1280031 (Update test.txt)
